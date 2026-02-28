@@ -1,1 +1,1 @@
-# IIT-BHU-s-Enigma-competition
+# IIT-BHU-Enigma-competition
